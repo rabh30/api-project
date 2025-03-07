@@ -1,3 +1,5 @@
+// MAIN FILE
+
 package com.weatherapp;
 
 import java.sql.Connection;
